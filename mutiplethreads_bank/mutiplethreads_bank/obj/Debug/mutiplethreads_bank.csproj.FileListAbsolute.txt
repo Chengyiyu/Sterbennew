@@ -1,6 +1,0 @@
-C:\Users\SterbenFox\Desktop\面試準備\07366075游承宜\CODE\github\mutiplethreads_bank\mutiplethreads_bank\bin\Debug\mutiplethreads_bank.exe.config
-C:\Users\SterbenFox\Desktop\面試準備\07366075游承宜\CODE\github\mutiplethreads_bank\mutiplethreads_bank\obj\Debug\mutiplethreads_bank.csprojResolveAssemblyReference.cache
-C:\Users\SterbenFox\Desktop\面試準備\07366075游承宜\CODE\github\mutiplethreads_bank\mutiplethreads_bank\bin\Debug\mutiplethreads_bank.exe
-C:\Users\SterbenFox\Desktop\面試準備\07366075游承宜\CODE\github\mutiplethreads_bank\mutiplethreads_bank\bin\Debug\mutiplethreads_bank.pdb
-C:\Users\SterbenFox\Desktop\面試準備\07366075游承宜\CODE\github\mutiplethreads_bank\mutiplethreads_bank\obj\Debug\mutiplethreads_bank.exe
-C:\Users\SterbenFox\Desktop\面試準備\07366075游承宜\CODE\github\mutiplethreads_bank\mutiplethreads_bank\obj\Debug\mutiplethreads_bank.pdb
